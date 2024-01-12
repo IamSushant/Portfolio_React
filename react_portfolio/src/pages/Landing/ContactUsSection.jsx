@@ -32,10 +32,10 @@ const ContactUsSection = () => {
                             <button className="flex mx-auto text-white bg-blue-500 border-0 py-2 px-8 focus:outline-none hover:bg-blue-600 rounded-lg text-lg">Drop your query</button>
                         </div>
                         <div className="p-2 w-full pt-8 mt-8 border-t border-gray-200 text-center">
-                            <a className="text-blue-500">s2scorpio@gmail.com</a>
-                            <p className="leading-normal my-5">49 Park Street
+                            <a className="text-blue-500">sushantmahajanam92@gmail.com</a>
+                            <p className="leading-normal my-5">Majurinkatu 12
                                 <br />
-                                Kolkata, IN
+                                Espoo, FI
                             </p>
                         </div>
                     </div>
